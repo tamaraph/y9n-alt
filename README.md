@@ -1,4 +1,4 @@
-- 👋 Hola, no soy @y9n-alt, pero acá si lo soy
+- 👋 Hola, no soy @y9n-alt, porque mi nombre es otro :hint: pero acá si lo soy
 - 👀 Este repositorio será para codingdojo, espero que después se use para otra cosa
 - 🌱 Estoy aprendiendo HTML y en un futuro Python
 - 💞️ Y eso, esto es solo meramente informativo, nos vemos!
